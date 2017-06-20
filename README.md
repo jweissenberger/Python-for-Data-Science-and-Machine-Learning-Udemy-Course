@@ -27,3 +27,5 @@ Neural Nets and Deep Learning,
 Support Vector Machines.
 
 Taught by Jose Portilla
+
+Course website: https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
