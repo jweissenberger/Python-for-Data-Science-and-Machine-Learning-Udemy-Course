@@ -29,3 +29,5 @@ Support Vector Machines.
 Taught by Jose Portilla
 
 Course website: https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
+
+Certificate of Completion: https://www.udemy.com/certificate/UC-D4Z7NZ9Z/
